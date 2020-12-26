@@ -1,0 +1,12 @@
+{
+  "name": "deliveryapp",
+  "displayName": "deliveryapp",
+  "expo": {
+    "name": "deliveryapp",
+    "slug": "deliveryapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
